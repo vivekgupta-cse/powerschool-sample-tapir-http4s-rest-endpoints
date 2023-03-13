@@ -1,0 +1,1 @@
+# powerschool-sample-tapir-http4s-rest-endpoints
